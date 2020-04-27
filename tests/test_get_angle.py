@@ -20,7 +20,3 @@ class TestSum(TestCase):
 
 # if __name__ == '__main__':
 #     unittest.main()
-l=[]
-for key,values in dict.items():
-    l=l.append(values)
-    print(l)
