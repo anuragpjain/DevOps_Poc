@@ -10,7 +10,7 @@
    args:
    - 'run'
    - 'deploy'
-   - 'clock-angle'
+   - 'clock-angle-demo'
    - '--image'
    - 'gcr.io/$PROJECT_ID/clock-angle-demo:$COMMIT_SHA'
    - '--region'
