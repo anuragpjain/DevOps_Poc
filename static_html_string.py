@@ -3,7 +3,7 @@ HTML = """
     <html>
 <body style="background-color:powderblue;">
 <center>
-<h2>INPUT VALUE:Hours and Minutes</h2>
+<h2>INPUT VALUE:HOURS AND MINUTE</h2>
 
 <form  onsubmit="myFunction()">
   <label for="hrs">Hours:</label><br>
